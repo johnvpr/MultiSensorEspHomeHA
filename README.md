@@ -1,2 +1,2 @@
-# OpenESPModularTemperatureSensorsHA
-Fridge, Freezer, IOT
+
+Fridge, Freezer, IOT, etc
